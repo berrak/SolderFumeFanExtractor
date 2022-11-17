@@ -1,6 +1,3 @@
-![Display](./images/fumeclip.png)
-
-*Early experiments to determine the PSU fan capability for fume extraction*
 
 [![GitHub license](https://img.shields.io/github/license/berrak/SolderFumeFanExtractor.svg?logo=gnu&logoColor=ffffff)](https://github.com/berrak/SolderFumeFanExtractor/blob/master/LICENSE)
 [![Installation instructions](https://www.ardu-badge.com/badge/SolderFumeFanExtractor.svg?)](https://www.ardu-badge.com/SolderFumeFanExtractor)
