@@ -40,8 +40,7 @@ TinyPICO TP = TinyPICO();
 const char *SSID = "FW114";
 const char *PASSWORD = "";
 
-// Project descriptions for the OTA web page// Project descriptions for the OTA
-// web page
+// Project descriptions for the OTA web page
 String project_title = "Solder Fume Extraction Station";
 String project_description =
     "Solder Fume Extraction Station Deluxe - from scrap.<p> <b>Inhaling the "
