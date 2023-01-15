@@ -25,13 +25,11 @@
 // SOFTWARE.
 //
 
-
 #define DEBUGLEVEL_ON
-#include <Rdebug.h>
+#include <Rdebug.h>  // (optional) for debugging only
 
 #include <stdint.h>
 
-//void ICACHE_RAM_ATTR isr(void);
 void IRAM_ATTR keyPressed(void);
 
 struct Button {
