@@ -12,5 +12,4 @@
 #ifndef SolderFumeFanExtractor_H_
 #define SolderFumeFanExtractor_H_
 
-
 #endif // EOF
